@@ -7,3 +7,4 @@ Order:
   - Client Tools
   - Provisioning the Certificate Authority
   - Generating Client Certificates
+  - Generating the Kubernetes API Server Certificate
