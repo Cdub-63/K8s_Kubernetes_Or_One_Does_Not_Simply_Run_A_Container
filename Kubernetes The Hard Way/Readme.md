@@ -8,3 +8,4 @@ Order:
   - Provisioning the Certificate Authority
   - Generating Client Certificates
   - Generating the Kubernetes API Server Certificate
+  - Generating the Service Account Key Pair
