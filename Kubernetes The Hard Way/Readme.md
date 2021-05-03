@@ -9,3 +9,4 @@ Order:
   - Generating Client Certificates
   - Generating the Kubernetes API Server Certificate
   - Generating the Service Account Key Pair
+  - Distributing the Certificate Files
